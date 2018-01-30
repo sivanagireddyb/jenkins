@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ansible Role: Jenkins CI
 
 [![Build Status](https://travis-ci.org/geerlingguy/ansible-role-jenkins.svg?branch=master)](https://travis-ci.org/geerlingguy/ansible-role-jenkins)
@@ -132,3 +133,7 @@ MIT (Expat) / BSD
 ## Author Information
 
 This role was created in 2014 by [Jeff Geerling](https://www.jeffgeerling.com/), author of [Ansible for DevOps](https://www.ansiblefordevops.com/).
+=======
+# jenkins
+jenkins with install plugins automated
+>>>>>>> 449be909858aecdd4e5b688ce565fe0368d2bc8c
